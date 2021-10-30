@@ -29,4 +29,4 @@
 <p>Complete!! 🎉🎉🎉</p><br>
 
 <h2>Inspiration and acknowlegde <a name="acknowledge_h"></h2>
-<p>These exercices are based on the course <a href='https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/'>Zero to Mastery Deep Learning with TensorFlow</a></p>
+<p>These exercices are based on the course <a href='https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/'>Zero to Mastery Deep Learning with TensorFlow</a> by the legend Daniel Bourke</p>
